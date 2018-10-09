@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 this is first file
+=======
+Adding some code here
+Adding yet more code
+
+Fix1
+>>>>>>> origin/master
